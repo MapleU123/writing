@@ -1,0 +1,6 @@
+{
+  "name": "VibePress — 个人风格创作与实时协同编辑工坊",
+  "description": "受 Vibe Writing 启发打造的个人写作工作室，融合三轮去味精修、多平台排版预览与基于 WebSocket OT 的多人实时协同文档编辑。",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
